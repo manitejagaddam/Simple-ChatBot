@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/124013a1-2f68-4a01-ab86-55e5f0860ce5)
 
 # Streamlit-based Chatbot Application
 
@@ -8,6 +7,8 @@ This is a simple chatbot application built using Streamlit and the Grok API. The
 - User-friendly chat interface built with Streamlit.
 - Real-time responses powered by the Grok API.
 - Easy setup and integration with Grok API.
+
+![image](https://github.com/user-attachments/assets/124013a1-2f68-4a01-ab86-55e5f0860ce5)
 
 ## Requirements
 
